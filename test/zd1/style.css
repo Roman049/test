@@ -1,0 +1,22 @@
+.news {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.news__items {
+  width: 340px;
+  font-size: 20px;
+}
+
+.news__item {
+  min-width: 440px;
+  max-width: 940px;
+  font-size: 20px;
+}
+
+.news__link {
+  text-decoration: none;
+  color: #0072ff;
+}
+/*# sourceMappingURL=style.css.map */
